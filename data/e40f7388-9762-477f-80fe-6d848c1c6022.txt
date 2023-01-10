@@ -1,0 +1,46 @@
+{
+  "id": "e40f7388-9762-477f-80fe-6d848c1c6022",
+  "timestamp": "8/1/2023 23:56:12",
+  "products": [
+    {
+      "id": "09c401b4-b8ed-4fbf-aa5b-671169574d5e",
+      "timestamp": "6/1/2023 09:53:35",
+      "title": "Motocicleta",
+      "description": "Yamaha 70cc",
+      "code": "134",
+      "price": "46500",
+      "stock": "5",
+      "thumbnail": "https://cdn3.iconfinder.com/data/icons/font-awesome-solid/640/motorcycle-512.png"
+    },
+    {
+      "id": "d46b16b9-c6ae-4a64-a2eb-51c3d7b93ce8",
+      "timestamp": "6/1/2023 09:53:35",
+      "title": "Lavarropa",
+      "description": "Enxuta con secado",
+      "code": "634",
+      "price": "9500",
+      "stock": "24",
+      "thumbnail": "https://cdn2.iconfinder.com/data/icons/kitchen-appliances-computers-and-electronics/32/Appliances-16-512.png"
+    },
+    {
+      "id": "5f8a3149-0117-4ad1-9a85-fb16684ff659",
+      "timestamp": "6/1/2023 09:53:35",
+      "title": "Router wifi",
+      "description": "ZTE 30mts",
+      "code": "111",
+      "price": "4500",
+      "stock": "45",
+      "thumbnail": "https://cdn1.iconfinder.com/data/icons/bootstrap-fill-vol-2/16/router-fill-512.png"
+    },
+    {
+      "id": "391b796a-6c73-4105-bb85-5170ac2f8277",
+      "timestamp": "6/1/2023 09:53:35",
+      "title": "TV 50",
+      "description": "Smart Samsung",
+      "code": "394",
+      "price": "35000",
+      "stock": "12",
+      "thumbnail": "https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_tv_48px-256.png"
+    }
+  ]
+}
